@@ -50,7 +50,7 @@
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "ZauteKm"
+      "value": "owner_rajesh_kashiya
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
